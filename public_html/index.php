@@ -7,6 +7,12 @@
 </head>
 <body>
 
-<h1>HOLA MUNDO CRUEL!</h1>
+<?
+
+echo "hola mundo";
+
+
+?>
+
 </body>
 </html>
